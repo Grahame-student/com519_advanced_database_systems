@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+/week 1/test_node/nbproject/private/
+/week 1/sample_application_1/nbproject/private/
+/week 1/sample_application_2/nbproject/private/
+/week 1/sample_application_3/nbproject/private/

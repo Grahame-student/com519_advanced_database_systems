@@ -1,0 +1,19 @@
+{
+    "name": "sample_application_3",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "gwhite",
+    "contributors": [],
+    "dependencies": {
+        "mongodb": "^3.6.2"
+    },
+    "scripts": {
+        "start": "node dataReader.js"
+    }
+}
