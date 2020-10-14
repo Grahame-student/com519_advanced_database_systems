@@ -1,0 +1,22 @@
+{
+    "name": "test_node",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "gwhite",
+    "contributors": [],
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.5"
+    },
+    "scripts": {"start": "node index.js",
+        "dev": "nodemon index.js"
+    }
+}
